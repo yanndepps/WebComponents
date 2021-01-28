@@ -11,7 +11,7 @@
 ## TOC
 
 
-### Component-01 - Personalized Navbar
+### Component 01 - Personalized Navbar
 
 -   Goal : create a navbar that dynamically adds a name from a JS file to it. the navbar has its links arranged vertically with the name at the top.
 -   Topics :
@@ -19,3 +19,13 @@
     2.  element manipulation in DOM
     3.  basic JS
 -   [code](comp_01/index.html)
+
+
+### Component 02 - Text Revealing Button
+
+-   Goal : create a button that, when clicked, will either show or hide a block of text depending on its previous state. it should be styled and have a clean transition when overed over.
+-   Topics :
+    1.  transitions
+    2.  event listeners
+    3.  DOM manipulation
+-   [code](comp_02/index.html)
