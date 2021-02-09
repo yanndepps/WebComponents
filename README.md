@@ -29,3 +29,13 @@
     2.  event listeners
     3.  DOM manipulation
 -   [code](comp_02/index.html)
+
+
+### Component 03 - Framed Image Loader
+
+-   Goal : create an image with a border on a page that can be edited using a form. create inputs that allow users to change the image URL, as well as the color and width of the border.
+-   Topics :
+    1.  HTML Forms
+    2.  Event listeners
+    3.  DOM manipulation
+-   [code](comp_03/index.html)
